@@ -6,3 +6,4 @@ int main()
     c=(a*b)/(a+b);
     printf("%d",c);
 }
+
